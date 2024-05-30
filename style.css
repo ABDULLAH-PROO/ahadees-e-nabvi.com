@@ -1,0 +1,17 @@
+hr{
+border-color: #000080;
+}
+body{
+text-decoration: underline;
+text-decoration-color: BLACK;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat-y;
+    height: 100vh; /* Ensures the background covers the entire viewport height */
+    background-attachment: fixed;
+}
